@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 04-Auth-Service
+
+    
+    
